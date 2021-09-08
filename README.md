@@ -9,6 +9,9 @@ Hi there 👋
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+**Languages and Tools:**  
+
+
 <table border="none">
   <td width="50%" display="inline" border="none">
     <div align="left" width="50%" display="inline">
