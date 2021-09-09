@@ -1,9 +1,9 @@
 Hi there, I'm Antonio Cirillo 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on several projects for the master's degree.
+- 🌱 I’m currently learning the concepts of Cloud Computing and concurrent and parallel programming.
+- 📫 How to reach me: dev.cirillo@gmail.com
+- ⚡ Fun fact: I love preparing and eating pizza.
 
 **Languages and Tools:**  
 
