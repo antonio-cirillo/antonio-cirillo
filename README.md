@@ -1,8 +1,7 @@
 Hi there, I'm Antonio Cirillo 👋
 
-- 🔭 I’m currently working on several projects for the master's degree.
-- 🌱 I’m currently learning the concepts of Cloud Computing, concurrent and parallel programming and security.
-- 📫 How to reach me: dev.cirillo@gmail.com
+- 🔭 I am currently studying topics related to PlatformOps.
+- 📫 How to reach me: job.cirillo@gmail.com
 - ⚡ Fun fact: I love preparing and eating pizza.
 
 **Languages and Tools:**  
