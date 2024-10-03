@@ -1,20 +1,16 @@
-Hi there, I'm Antonio Cirillo 👋
+## Hi there, I'm Antonio Cirillo 👋
 
 - 🔭 I am currently studying topics related to PlatformOps.
 - 📫 How to reach me: job.cirillo@gmail.com
 - ⚡ Fun fact: I love preparing and eating pizza.
 
-**Languages and Tools:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/antonio-cirillo-83a9601b7) 
+[![](https://visitcount.itsvg.in/api?id=antonio-cirillo&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<table border="none">
-  <td width="50%" display="inline" border="none">
-    <div align="left" width="50%" display="inline">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-cirillo&layout=compact&theme=github_dark" alt="Languages of Antonio" /> 
-    </div>
-  </td>
-  <td border="none">
-    <div align="left" width="25%">
-      <img src="https://github-readme-stats.vercel.app/api?username=antonio-cirillo&hide=issues&theme=github_dark&show_icons=true" alt="Activities of Antonio"/>
-    </div>
-  </td>
-</table>
+## 📚 Languages and Tools
+
+## 🚀 Certifications
+
+## 📈 GitHub stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=antonio-cirillo&theme=dark&hide_border=false)
+
