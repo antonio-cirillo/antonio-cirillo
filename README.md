@@ -7,10 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/antonio-cirillo-83a9601b7) 
 [![](https://visitcount.itsvg.in/api?id=antonio-cirillo&icon=0&color=3)](https://visitcount.itsvg.in)
 
-## 📚 Languages and Tools
-
-
-# 💻 Tech Stack:
+## 💻 Tech Stacks
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
