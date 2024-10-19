@@ -44,12 +44,19 @@
       <th>
         AZ-900
       </th>
+      <th>
+        CKA
+      </th>
     </tr>
     <tr>
       <td>
         <a href="https://learn.microsoft.com/it-it/users/antoniocirillo-1415/credentials/92fe482fade6b9f0?ref=https%3A%2F%2Fit.linkedin.com%2F">
           <img src="https://entd.org/wp-content/uploads/2021/06/azure-fundamentals-600x600-1.png" width="128">
         </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/dcee9737-a1a7-476d-a33b-7cea62f4ec25/public_url">
+           <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="128"> 
       </td>
 </table>
 
