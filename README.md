@@ -1,6 +1,7 @@
 ## Hi there, I'm Antonio Cirillo 👋
 
 - 🔭 I am currently studying topics related to PlatformOps.
+- 🚀 I am currently preparing for the Certified Kubernetes Application Developer (CKAD) exam.
 - 📫 How to reach me: job.cirillo@gmail.com
 - ⚡ Fun fact: I love preparing and eating pizza.
 
@@ -51,7 +52,7 @@
     <tr>
       <td>
         <a href="https://learn.microsoft.com/it-it/users/antoniocirillo-1415/credentials/92fe482fade6b9f0?ref=https%3A%2F%2Fit.linkedin.com%2F">
-          <img src="https://entd.org/wp-content/uploads/2021/06/azure-fundamentals-600x600-1.png" width="128">
+          <img src="https://media.licdn.com/dms/image/v2/C4E12AQH-e2WPGP0YXQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1649839178239?e=2147483647&v=beta&t=JkwLGpRDZMxeC9u-zmVrNsOAoQBThZcmn5K8LTHD0Gw" width="128">
         </a>
       </td>
       <td>
