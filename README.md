@@ -1,7 +1,7 @@
 ## Hi there, I'm Antonio Cirillo 👋
 
-- 🔭 I am currently studying topics related to PlatformOps.
-- 🚀 I am currently preparing for the Certified Kubernetes Application Developer (CKAD) exam.
+- 🔭 I am currently studying topics related to DevOps, GitOps and PlatformOps.
+- 🚀 I am currently preparing for the Certified Argo Project Associate (CAPA) exam.
 - 📫 How to reach me: job.cirillo@gmail.com
 - ⚡ Fun fact: I love preparing and eating pizza.
 
