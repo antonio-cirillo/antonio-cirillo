@@ -46,6 +46,9 @@
         AZ-900
       </th>
       <th>
+        GitLab CI/CD
+      </th>
+      <th>
         CKA
       </th>
     </tr>
@@ -54,6 +57,10 @@
         <a href="https://learn.microsoft.com/it-it/users/antoniocirillo-1415/credentials/92fe482fade6b9f0?ref=https%3A%2F%2Fit.linkedin.com%2F">
           <img src="https://media.licdn.com/dms/image/v2/C4E12AQH-e2WPGP0YXQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1649839178239?e=2147483647&v=beta&t=JkwLGpRDZMxeC9u-zmVrNsOAoQBThZcmn5K8LTHD0Gw" width="128">
         </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/0b7a20fa-489b-46cb-8d41-45351f7553d3/public_url">
+           <img src="https://images.credly.com/size/340x340/images/cbfb08bb-74b3-4768-81ac-93c30335cb83/image.png" width="128"> 
       </td>
       <td>
         <a href="https://www.credly.com/badges/dcee9737-a1a7-476d-a33b-7cea62f4ec25/public_url">
