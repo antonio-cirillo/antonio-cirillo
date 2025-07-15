@@ -54,6 +54,9 @@
       <th>
         CAPA
       </th>
+      <th>
+        PCA
+      </th>
     </tr>
     <tr>
       <td>
@@ -67,11 +70,15 @@
       </td>
       <td>
         <a href="https://www.credly.com/badges/dcee9737-a1a7-476d-a33b-7cea62f4ec25/public_url">
-           <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="128"> 
+           <img src="https://images.credly.com/size/680x680/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" width="128"> 
       </td>
       <td>
         <a href="https://www.credly.com/badges/04f51b6b-737d-4021-b904-41872b74f1c6/public_url">
            <img src="https://images.credly.com/size/680x680/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" width="128"> 
+      </td>
+       <td>
+        <a href="https://www.credly.com/badges/c59a3aad-f081-4e75-8a03-f39c1b9b58bb/public_url">
+           <img src="https://images.credly.com/size/680x680/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" width="128"> 
       </td>
 </table>
 
