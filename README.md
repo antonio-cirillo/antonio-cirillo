@@ -46,9 +46,6 @@
         AZ-900
       </th>
       <th>
-        GitLab CI/CD
-      </th>
-      <th>
         CKA
       </th>
       <th>
@@ -65,10 +62,6 @@
         </a>
       </td>
       <td>
-        <a href="https://www.credly.com/badges/0b7a20fa-489b-46cb-8d41-45351f7553d3/public_url">
-           <img src="https://images.credly.com/size/340x340/images/cbfb08bb-74b3-4768-81ac-93c30335cb83/image.png" width="128"> 
-      </td>
-      <td>
         <a href="https://www.credly.com/badges/dcee9737-a1a7-476d-a33b-7cea62f4ec25/public_url">
            <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="128"> 
       </td>
@@ -79,6 +72,26 @@
        <td>
         <a href="https://www.credly.com/badges/c59a3aad-f081-4e75-8a03-f39c1b9b58bb/public_url">
            <img src="https://images.credly.com/size/680x680/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" width="128"> 
+      </td>
+</table>
+
+<table>
+    <tr>
+      <th>
+        GitLab Git
+      </th>
+      <th>
+        GitLab CI/CD
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.credly.com/badges/5c97be36-8418-4a1e-a11e-2b44b9482354/public_url">
+           <img src="https://images.credly.com/size/340x340/images/9bc216e6-406e-491f-903f-2f7ca60facc6/image.png" width="128"> 
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/0b7a20fa-489b-46cb-8d41-45351f7553d3/public_url">
+           <img src="https://images.credly.com/size/340x340/images/cbfb08bb-74b3-4768-81ac-93c30335cb83/image.png" width="128"> 
       </td>
 </table>
 
