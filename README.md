@@ -83,6 +83,9 @@
       <th>
         GitLab CI/CD
       </th>
+      <th>
+        GitLab PM
+      </th>
     </tr>
     <tr>
       <td>
@@ -92,6 +95,10 @@
       <td>
         <a href="https://www.credly.com/badges/0b7a20fa-489b-46cb-8d41-45351f7553d3/public_url">
            <img src="https://images.credly.com/size/340x340/images/cbfb08bb-74b3-4768-81ac-93c30335cb83/image.png" width="128"> 
+      </td>
+      <td>
+        <a href="https://www.credly.com/badges/68881f1c-a8a5-40f8-99d2-def895337407/public_url">
+           <img src="https://images.credly.com/size/680x680/images/5e4e8c17-c19c-4005-b5b5-9bc81bfdbeac/image.png" width="128"> 
       </td>
 </table>
 
